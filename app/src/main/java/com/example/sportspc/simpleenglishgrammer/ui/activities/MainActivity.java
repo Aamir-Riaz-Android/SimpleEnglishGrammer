@@ -46,6 +46,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this,DetailActivity_.class).putExtra(Constants.KEY_CAT_MAIN_PAGE,"grammar/"+listHomeItems.get(pos).toString()));
 
     }
+    private void getBranch(){
+
+    }
 
 
     private BottomNavigationView.OnNavigationItemSelectedListener mHomeBottomNavigation = new BottomNavigationView.OnNavigationItemSelectedListener() {
