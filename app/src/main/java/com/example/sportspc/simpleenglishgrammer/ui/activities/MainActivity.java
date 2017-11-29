@@ -66,9 +66,7 @@ public class MainActivity extends AppCompatActivity {
             return false;
         }
     };
-    private void initDummyData(){
-        int i=1;
-    }
+
 
 
     //data
