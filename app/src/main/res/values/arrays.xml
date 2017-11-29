@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="homeNameList">
+       <item>Introduction</item>
+       <item>Nouns</item>
+       <item>Pronouns</item>
+       <item>Adjectives</item>
+       <item>Verbs</item>
+       <item>Adverbs</item>
+       <item>Auxiliary Verbs</item>
+       <item>Prepositions</item>
+       <item>Conjunctions</item>
+       <item>Question Tags</item>
+       <item>Articles</item>
+       <item>Interjections</item>
+       <item>Tenses</item>
+       <item>Phrases</item>
+       <item>Idioms</item>
+       <item>Determiners</item>
+       <item>Reported Speech</item>
+       <item>Active Or Passive Voice</item>
+       <item>Type of sentence</item>
+       <item>Plurals</item>
+       <item>Quantifiers</item>
+       <item>Conditionals</item>
+       <item>Use of Should</item>
+       <item>Use of Wish</item>
+       <item>Use of Shall</item>
+       <item>Used to</item>
+       <item>Had better</item>
+       <item>Common English Errors</item>
+    </array>
+
+    <!--practive grammar-->
+    <string-array name="grammar_practice_names">
+        <item>Noun Examples</item>
+        <item>Pronoun Examples</item>
+        <item>Adjective Examples</item>
+        <item>Verb Examples</item>
+        <item>Adverb Examples</item>
+        <item>Preposition Examples</item>
+        <item>Conjunction Examples</item>
+        <item>Interjection Examples</item>
+        <item>Tenses Examples</item>
+        <item>Reported Speech Examples</item>
+        <item>Active Or Passive Voice Examples</item>
+        <item>Auxiliary Verbs Examples</item>
+        <item>Relative Clauses Examples</item>
+        <item>Question Tag Examples</item>
+        <item>Articles Examples</item>
+        <item>Phrases Examples</item>
+        <item>Idioms Examples</item>
+        <item>Determiners Examples</item>
+    </string-array>
+
+</resources>
