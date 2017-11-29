@@ -49,6 +49,9 @@ public class MainActivity extends AppCompatActivity {
     private void getBranch(){
 
     }
+    private void getBranch3(){
+
+    }
 
 
     private BottomNavigationView.OnNavigationItemSelectedListener mHomeBottomNavigation = new BottomNavigationView.OnNavigationItemSelectedListener() {
